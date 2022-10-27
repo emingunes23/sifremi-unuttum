@@ -1,0 +1,13 @@
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\bin\Debug\SifremiUnuttum.exe.config
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\bin\Debug\SifremiUnuttum.exe
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\bin\Debug\SifremiUnuttum.pdb
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.csproj.AssemblyReference.cache
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.csproj.SuggestedBindingRedirects.cache
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.Form1.resources
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.Mail_Göndermek.resources
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.Properties.Resources.resources
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.Şifre_Sıfırlama.resources
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.csproj.GenerateResource.cache
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.csproj.CoreCompileInputs.cache
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.exe
+C:\C# Projeler\SifremiUnuttum\SifremiUnuttum\obj\Debug\SifremiUnuttum.pdb
